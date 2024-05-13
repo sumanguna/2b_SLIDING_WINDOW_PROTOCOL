@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+### NAME: Suman G
+### REG.NO:212223240163
 ## AIM
 ## ALGORITHM:
 1. Start the program.
@@ -8,8 +10,6 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-### NAME: Suman G
-### REG.NO:212223240163
 ### Server
 ```
 import socket
@@ -42,9 +42,11 @@ while True:
 ```
 ## OUPUT
 ### Server
-![320813765-68e67df6-3f82-449c-8159-c2f81e6b304f](https://github.com/22002525karthikeyan/2b_SLIDING_WINDOW_PROTOCOL/assets/118708040/7bcba08d-715d-417c-b8ab-fe584727e089)
+<img width="936" alt="Screenshot 2024-04-09 at 10 34 17 AM" src="https://github.com/aaron-h-2k5/2b_SLIDING_WINDOW_PROTOCOL/assets/144250957/0e7e8ab7-69f6-49e5-8d82-89db3755fe13">
+
 ### Client
-![320813914-82d9e11a-fb40-49c9-a9ea-44f7aa5d9ed0](https://github.com/22002525karthikeyan/2b_SLIDING_WINDOW_PROTOCOL/assets/118708040/d81a1f40-2d87-49c6-b196-e4cdf9c4a792)
+<img width="936" alt="Screenshot 2024-04-09 at 10 34 23 AM" src="https://github.com/aaron-h-2k5/2b_SLIDING_WINDOW_PROTOCOL/assets/144250957/bb3a9796-7101-484e-a259-b5ea603e8011">
+
 
 
 ## RESULT
